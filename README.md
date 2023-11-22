@@ -1,4 +1,4 @@
-### Hi! I'm "Who Has No IDENTITY" 👋
+### Hi! I'm a learner and interested in Programming and  AI  👋
 
 <!--
 **Bonusree/Bonusree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
